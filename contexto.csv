@@ -1,11 +1,12 @@
-ID Equipo	Nombre del Equipo	Esquema Conexión	IP de Red	Sistema Operativo	Función	Estado	Observaciones
-1	Servidor-1	1	192.168.0.1	Linux Ubuntu Server 20.04	Servidor Principal	Activo	Monitoreo regular
-2	Router-Principal	2	192.168.0.254	Cisco IOS 15.0	Enrutador de red	Activo	Configuración VPN
-3	Switch-Sala	3	192.168.0.2	Cisco IOS 12.2	Conmutador de red	Activo	24 puertos activos
-4	PC-Administracion	4	192.168.0.10	Windows 10 Pro	Administración	En reparación	Cambio de disco duro
-5	PC-Técnico	5	192.168.0.11	Windows 11 Pro	Mantenimiento	Activo	Sistema actualizado
-6	NAS-Backup	6	192.168.0.20	Synology DSM 7.0	Almacenamiento	Activo	Respaldo semanal
-7	Cámara-Seguridad1	7	192.168.0.30	Firmware Propietario	Seguridad	Activo	Verificar grabaciones
-8	Cámara-Seguridad2	8	192.168.0.31	Firmware Propietario	Seguridad	Activo	Sin problemas
-9	PC-Estación1	9	192.168.0.15	Linux Mint 20	Trabajo diario	Activo	Sin incidencias
-10	Impresora-Sala	10	192.168.0.40	Firmware HP	Impresión	En espera	Requiere toner
+ID Equipo,Nombre del Equipo,Esquema Conexión,IP de Red,Sistema Operativo,Función,Estado,Observaciones
+1,Servidor-1,1,192.168.0.1,Linux Ubuntu Server 20.04,Servidor Principal,Activo,Monitoreo regular
+2,Router-Principal,2,192.168.0.254,Cisco IOS 15.0,Enrutador de red,Activo,Configuración VPN
+3,Switch-Sala,3,192.168.0.2,Cisco IOS 12.2,Conmutador de red,Activo,24 puertos activos
+4,PC-Administracion,4,192.168.0.10,Windows 10 Pro,Administración,En reparación,Cambio de disco duro
+5,PC-Técnico,5,192.168.0.11,Windows 11 Pro,Mantenimiento,Activo,Sistema actualizado
+6,NAS-Backup,6,192.168.0.20,Synology DSM 7.0,Almacenamiento,Activo,Respaldo semanal
+7,Cámara-Seguridad1,7,192.168.0.30,Firmware Propietario,Seguridad,Activo,Verificar grabaciones
+8,Cámara-Seguridad2,8,192.168.0.31,Firmware Propietario,Seguridad,Activo,Sin problemas
+9,PC-Estación1,9,192.168.0.15,Linux Mint 20,Trabajo diario,Activo,Sin incidencias
+10,Impresora-Sala,10,192.168.0.40,Firmware HP,Impresión,En espera,Requiere toner
+
